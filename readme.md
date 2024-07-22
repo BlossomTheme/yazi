@@ -14,4 +14,5 @@ mv theme.toml ~/.config/yazi/
 ```
 
 <br>
- 
+
+![Blossom](https://sachinsenal0x64.github.io/picx-images-hosting/2024-07-22-031352_hyprshot.7sn3w211xq.webp)
