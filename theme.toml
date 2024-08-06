@@ -135,4 +135,3 @@ rules = [
 	{ name = "*", fg = "#f9f7f2" },
 	{ name = "*/", fg = "#ea748f" },
 ]
-
